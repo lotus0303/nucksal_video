@@ -10,12 +10,10 @@ body{
 	background-color: #fff;
 }
 #video_wrap{
-	width: 390px;
-	height: 844px;
 	margin: 0 auto;
+	text-align: center;
 }
-.video{
-	width: 85%;
-	margin: 0 auto;
-	margin-top: 20px;
+.vide0{
+	margin: auto;
+	text-align: center;
 }
